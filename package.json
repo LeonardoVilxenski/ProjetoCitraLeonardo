@@ -1,0 +1,44 @@
+{
+    "title": "LacPlast Sacolas",
+    "name": "LacPlast",
+    "version": "4.1.1",
+    "description": "Criado por:Leonardo Vilxenski.",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "www.lacplast.com.br",
+    "bugs": {
+        "url": "www.lacplast.com.br",
+        "email": "lacplast@hotmai.com"
+    },
+    "license": "MIT",
+    "author": "Leonardo Vilxenski",
+    "contributors": [
+    ],
+    "repository": {
+        "type": "E-mail",
+        "url": "lacplast@hotmail.com.br"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "font-awesome": "4.7.0",
+        "jquery": "3.3.1",
+        "jquery.easing": "^1.4.1",
+        "magnific-popup": "^1.1.0",
+        "scrollreveal": "3.4.0"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.3",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.4",
+        "gulp-header": "2.0.5",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "4.0.1",
+        "gulp-uglify": "3.0.0"
+    }
+}
